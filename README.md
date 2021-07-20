@@ -3,6 +3,8 @@
 
 Using `spring-security` to implement Role Based Access Control
 
+![Java CI with Maven](https://github.com/hemrajanilavesh/spring-basic-authentcation/actions/workflows/maven.yml/badge.svg)
+
 | API  | Required Roles | Description |
 | ------------ | ---- | --- |
 | /greet/citizen | No Authentication | Any user can Access this API  
