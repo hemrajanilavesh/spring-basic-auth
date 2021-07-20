@@ -1,7 +1,9 @@
 
 # Basic Spring Security
 
-Using `spring-security` to implement Role Based Access Control
+Using `spring-security` to implement 
+  - Basic Authentication with username / password 
+  - Authorization through Role Based Access Control
 
 ![Java CI with Maven](https://github.com/hemrajanilavesh/spring-basic-authentcation/actions/workflows/maven.yml/badge.svg)
 
